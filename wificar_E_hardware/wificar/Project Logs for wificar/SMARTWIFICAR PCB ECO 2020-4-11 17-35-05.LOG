@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=USB1 Old Footprint=USB-micro_A New Footprint=USB-MICRO_B
+Change Component Designator: OldDesignator=R_CI NewDesignator=R_CHARGE
+Added Component: Designator=BAT+(TEST 1.2)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=BAT-(TEST 1.2)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=BAT+-1
+Added Pin To Net: NetName=BAT- Pin=BAT--1
+Added Member To Class: ClassName=IO_CONN Member=Component BAT+ TEST
+Added Member To Class: ClassName=IO_CONN Member=Component BAT- TEST
+Added Room: Name=Charge
+Added Room: Name=Control
+Added Room: Name=IO_CONN
+Added Room: Name=Motor

@@ -1,0 +1,29 @@
+Net Status Report
+Filename     : E:\»æÍ¼\PCB\wificar\wificar\SMARTWIFICAR.PcbDoc
+Date         : 2020/4/11
+Time         : 21:46:04
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3V3, Signal Layers Only, 71.7381mm
+    BAT+, Signal Layers Only, 45.0401mm
+    BAT-, Signal Layers Only, 0mm
+    NetIC1_1, Signal Layers Only, 24.0153mm
+    NetIC1_4, Signal Layers Only, 24.6999mm
+    NetIC1_6, Signal Layers Only, 12.8789mm
+    NetIC1_7, Signal Layers Only, 25.3844mm
+    NetIC_CHARGE_2, Signal Layers Only, 19.2903mm
+    NetIC_CHARGE_6, Signal Layers Only, 26.2735mm
+    NetIC_CHARGE_7, Signal Layers Only, 32.9527mm
+    NetLED1_2, Signal Layers Only, 5.7727mm
+    NetLED2_2, Signal Layers Only, 5.1345mm
+    NetLED3_2, Signal Layers Only, 17.8806mm
+    NetM1_1, Signal Layers Only, 21.5383mm
+    NetM1_18, Signal Layers Only, 36.3041mm
+    NetM1_20, Signal Layers Only, 12.4609mm
+    NetM1_21, Signal Layers Only, 11.5082mm
+    NetM1_22, Signal Layers Only, 12.9151mm
+    NetQ1_1, Signal Layers Only, 7.443mm
+    NetS1_3, Signal Layers Only, 11.0734mm
+    USB5V, Signal Layers Only, 86.1124mm
+count : 21

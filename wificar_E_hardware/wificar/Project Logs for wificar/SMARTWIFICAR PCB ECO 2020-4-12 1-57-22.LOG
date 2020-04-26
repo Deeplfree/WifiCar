@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetS1_3 Pin=S1-3
+Change Component Designator: OldDesignator=USB NewDesignator=USB1
+Added Component: Designator=DZ1(DO-35)
+Add component (AddParameter): Name = "BOM名称"; Value = "3V/0.5W稳压管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=RDZ(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetS1_3 Pin=DZ1-1
+Added Pin To Net: NetName=3V3 Pin=DZ1-2
+Added Pin To Net: NetName=BAT- Pin=RDZ-1
+Added Pin To Net: NetName=NetS1_3 Pin=RDZ-2
+Added Pin To Net: NetName=3V3 Pin=S1-3
+Change Net Name : Old Net Name=NetS1_3 New Net Name=NetDZ1_1
+Added Member To Class: ClassName=Charge Member=Component DZ1 BZX55C3V3
+Added Member To Class: ClassName=IO_CONN Member=Component MT- TEST
+Added Member To Class: ClassName=Charge Member=Component RDZ 1.2K
+Added Room: Name=IO_CONN
